@@ -3295,6 +3295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DifficultySelection
       objectReference: {fileID: 0}
+    - target: {fileID: 1278178883643351335, guid: b1c683929c12cbe4d8ae5cd50d87abeb, type: 3}
+      propertyPath: m_text
+      value: "\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1c683929c12cbe4d8ae5cd50d87abeb, type: 3}
 --- !u!224 &1715027848 stripped
